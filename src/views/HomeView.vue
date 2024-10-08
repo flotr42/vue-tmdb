@@ -2,5 +2,7 @@
 </script>
 
 <template>
-  <div></div>
+  <div>
+    Bonjour je suis la homeview
+  </div>
 </template>
