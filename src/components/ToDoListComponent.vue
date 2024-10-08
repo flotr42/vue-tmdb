@@ -1,6 +1,10 @@
 <template>
-  <div>
-    Bonjour Je suis le to do list component
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-12 bg-primary">
+        Bonjour
+      </div>
+    </div>
   </div>
 </template>
 
