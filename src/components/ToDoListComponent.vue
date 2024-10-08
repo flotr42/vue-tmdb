@@ -1,5 +1,7 @@
 <template>
-  <div></div>
+  <div>
+    Bonjour Je suis le to do list component
+  </div>
 </template>
 
 <script>
